@@ -1,0 +1,56 @@
+c:\users\thanuka_senadheera\documents\visual studio 2015\Projects\NotepadSharpEditor2017New\NotepadSharpEditor2017New\bin\Debug\NotepadSharpEditor2017New.exe.config
+c:\users\thanuka_senadheera\documents\visual studio 2015\Projects\NotepadSharpEditor2017New\NotepadSharpEditor2017New\bin\Debug\NotepadSharpEditor2017New.exe
+c:\users\thanuka_senadheera\documents\visual studio 2015\Projects\NotepadSharpEditor2017New\NotepadSharpEditor2017New\bin\Debug\NotepadSharpEditor2017New.pdb
+c:\users\thanuka_senadheera\documents\visual studio 2015\Projects\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.csprojResolveAssemblyReference.cache
+c:\users\thanuka_senadheera\documents\visual studio 2015\Projects\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Properties.Resources.resources
+c:\users\thanuka_senadheera\documents\visual studio 2015\Projects\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.csproj.GenerateResource.Cache
+c:\users\thanuka_senadheera\documents\visual studio 2015\Projects\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.exe
+c:\users\thanuka_senadheera\documents\visual studio 2015\Projects\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.pdb
+c:\users\thanuka_senadheera\documents\visual studio 2015\Projects\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Shareditor.resources
+C:\Users\Thanuka_Senadheera\Documents\Visual Studio 2015\Projects\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Find.resources
+C:\Users\Thanuka_Senadheera\Documents\Visual Studio 2015\Projects\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.fontSettings.resources
+C:\Users\Thanuka_Senadheera\Documents\Visual Studio 2015\Projects\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Replace.resources
+C:\Users\Thanuka_Senadheera\documents\visual studio 2015\Projects\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Preference.resources
+C:\Users\Thanuka_Senadheera\Documents\Visual Studio 2015\Projects\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.NameConsole.resources
+F:\My C# backup\NotepadSharpEditor2017New\NotepadSharpEditor2017New\bin\Debug\NotepadSharpEditor2017New.exe.config
+F:\My C# backup\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.exe
+F:\My C# backup\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.pdb
+F:\My C# backup\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.csprojResolveAssemblyReference.cache
+F:\My C# backup\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Find.resources
+F:\My C# backup\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.fontSettings.resources
+F:\My C# backup\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Shareditor.resources
+F:\My C# backup\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.NameConsole.resources
+F:\My C# backup\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Preference.resources
+F:\My C# backup\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Properties.Resources.resources
+F:\My C# backup\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Replace.resources
+F:\My C# backup\NotepadSharpEditor2017New\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.csproj.GenerateResource.Cache
+F:\My C# backup\NotepadSharpEditor2017New\NotepadSharpEditor2017New\bin\Debug\NotepadSharpEditor2017New.exe
+F:\My C# backup\NotepadSharpEditor2017New\NotepadSharpEditor2017New\bin\Debug\NotepadSharpEditor2017New.pdb
+C:\Users\Thanuka_Senadheera\Desktop\C#\Thanuka_Program_Backup_After W\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Find.resources
+C:\Users\Thanuka_Senadheera\Desktop\C#\Thanuka_Program_Backup_After W\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.fontSettings.resources
+C:\Users\Thanuka_Senadheera\Desktop\C#\Thanuka_Program_Backup_After W\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Shareditor.resources
+C:\Users\Thanuka_Senadheera\Desktop\C#\Thanuka_Program_Backup_After W\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.NameConsole.resources
+C:\Users\Thanuka_Senadheera\Desktop\C#\Thanuka_Program_Backup_After W\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Preference.resources
+C:\Users\Thanuka_Senadheera\Desktop\C#\Thanuka_Program_Backup_After W\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Properties.Resources.resources
+C:\Users\Thanuka_Senadheera\Desktop\C#\Thanuka_Program_Backup_After W\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Replace.resources
+C:\Users\Thanuka_Senadheera\Desktop\C#\Thanuka_Program_Backup_After W\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.csproj.GenerateResource.Cache
+C:\Users\Thanuka_Senadheera\Desktop\C#\Thanuka_Program_Backup_After W\NotepadSharpEditor2017New\bin\Debug\NotepadSharpEditor2017New.exe.config
+C:\Users\Thanuka_Senadheera\Desktop\C#\Thanuka_Program_Backup_After W\NotepadSharpEditor2017New\bin\Debug\NotepadSharpEditor2017New.exe
+C:\Users\Thanuka_Senadheera\Desktop\C#\Thanuka_Program_Backup_After W\NotepadSharpEditor2017New\bin\Debug\NotepadSharpEditor2017New.pdb
+C:\Users\Thanuka_Senadheera\Desktop\C#\Thanuka_Program_Backup_After W\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.exe
+C:\Users\Thanuka_Senadheera\Desktop\C#\Thanuka_Program_Backup_After W\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.pdb
+C:\Users\Thanuka_Senadheera\Desktop\C#\Thanuka_Program_Backup_After W\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.csprojResolveAssemblyReference.cache
+F:\Assignment APIIT\My Performance\2nd Year\TBSE CD WRITTEN\TBSE APPLICATION PROGRAM FILES\cb005937\NotepadSharpEditor2017New\bin\Debug\NotepadSharpEditor2017New.exe.config
+F:\Assignment APIIT\My Performance\2nd Year\TBSE CD WRITTEN\TBSE APPLICATION PROGRAM FILES\cb005937\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.exe
+F:\Assignment APIIT\My Performance\2nd Year\TBSE CD WRITTEN\TBSE APPLICATION PROGRAM FILES\cb005937\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.pdb
+F:\Assignment APIIT\My Performance\2nd Year\TBSE CD WRITTEN\TBSE APPLICATION PROGRAM FILES\cb005937\NotepadSharpEditor2017New\bin\Debug\NotepadSharpEditor2017New.exe
+F:\Assignment APIIT\My Performance\2nd Year\TBSE CD WRITTEN\TBSE APPLICATION PROGRAM FILES\cb005937\NotepadSharpEditor2017New\bin\Debug\NotepadSharpEditor2017New.pdb
+F:\Assignment APIIT\My Performance\2nd Year\TBSE CD WRITTEN\TBSE APPLICATION PROGRAM FILES\cb005937\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.csprojResolveAssemblyReference.cache
+F:\Assignment APIIT\My Performance\2nd Year\TBSE CD WRITTEN\TBSE APPLICATION PROGRAM FILES\cb005937\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Find.resources
+F:\Assignment APIIT\My Performance\2nd Year\TBSE CD WRITTEN\TBSE APPLICATION PROGRAM FILES\cb005937\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.fontSettings.resources
+F:\Assignment APIIT\My Performance\2nd Year\TBSE CD WRITTEN\TBSE APPLICATION PROGRAM FILES\cb005937\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Shareditor.resources
+F:\Assignment APIIT\My Performance\2nd Year\TBSE CD WRITTEN\TBSE APPLICATION PROGRAM FILES\cb005937\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.NameConsole.resources
+F:\Assignment APIIT\My Performance\2nd Year\TBSE CD WRITTEN\TBSE APPLICATION PROGRAM FILES\cb005937\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Preference.resources
+F:\Assignment APIIT\My Performance\2nd Year\TBSE CD WRITTEN\TBSE APPLICATION PROGRAM FILES\cb005937\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Properties.Resources.resources
+F:\Assignment APIIT\My Performance\2nd Year\TBSE CD WRITTEN\TBSE APPLICATION PROGRAM FILES\cb005937\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.Replace.resources
+F:\Assignment APIIT\My Performance\2nd Year\TBSE CD WRITTEN\TBSE APPLICATION PROGRAM FILES\cb005937\NotepadSharpEditor2017New\obj\Debug\NotepadSharpEditor2017New.csproj.GenerateResource.Cache
